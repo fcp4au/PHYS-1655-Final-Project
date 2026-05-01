@@ -1,2 +1,3 @@
 # PHYS-1655-Final-Project
-This repository will house all work and files for the PHYS 1655 final project 
+I chose a dataset from the Cern public data site. My specific data reflects the collisiton of two protons in the LHC. Each run contains one collision event with two paricles, muon 1 and muon 2. For my analysis, I looked at the dependence of transverse momentum and invariant mass. By looking at a linear regression, I found that about 10% of the variance in invariant mass is caused by transverse momentum, which indecates a slight correlation (not strong, not negligible)
+In other words, mass resolution is generally consistent between low and high pt events.
